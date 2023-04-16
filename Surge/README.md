@@ -6,5 +6,5 @@
 </h4>
 
 <p align="center">
-    <img src=./截屏2023-04-16 13.08.15 (1).png>
+    <img src=./Surge_for_Mac_Dashboard_Demo_01.png>
 </p>
