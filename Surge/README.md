@@ -1,7 +1,10 @@
 # 🌴 Demo
 
-<h3 align="center">
+<h4 align="center">
+    <br />
     Surge for Mac Dashboard
-    </br>
+</h4>
+
+<p align="center">
     <img src=./Surge_for_Mac_Dashboard_Demo.png>
-</h3>
+</p>
