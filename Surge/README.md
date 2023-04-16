@@ -1,1 +1,1 @@
-(./Config_Template.conf)
+(/Config_Template.conf)
