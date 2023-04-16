@@ -6,5 +6,5 @@
 </h4>
 
 <p align="center">
-    <img src=./Surge_for_Mac_Dashboard_Demo_@0.75x.png>
+    <img src=./Surge_for_Mac_Dashboard_Demo.png>
 </p>
