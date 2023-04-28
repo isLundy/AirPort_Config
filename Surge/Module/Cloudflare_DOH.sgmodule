@@ -3,3 +3,4 @@
 
 [General]
 encrypted-dns-server = https://1.1.1.1/dns-query
+encrypted-dns-follow-outbound-mode = true
