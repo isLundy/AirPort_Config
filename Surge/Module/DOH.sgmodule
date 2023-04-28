@@ -1,0 +1,5 @@
+#!name = DNS-over-HTTPS
+#!desc = Cloudflare 提供的 DOH 服务地址
+
+[General]
+encrypted-dns-server = https://1.1.1.1/dns-query
